@@ -1,5 +1,4 @@
-# tgdg
-Team GDG Repo
+# Noeva Consulting
 
 ## Good day, I'm Vlad Caye.
 > This is Noeva Consulting's official page!
